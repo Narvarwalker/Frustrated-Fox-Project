@@ -1,2 +1,2 @@
-# Frustrated-Fox-Project
+# FrustratedFoxProject
 Game website (frustrated fox with animations) 
