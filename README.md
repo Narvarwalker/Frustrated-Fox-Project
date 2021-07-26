@@ -1,2 +1,2 @@
 # FrustratedFoxProject
-Game website (frustrated fox with animations) 
+Fictitious HTML Landing page for Game developer website that uses aspects of CSS transitions and animations.
